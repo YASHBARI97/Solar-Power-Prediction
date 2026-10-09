@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+joblib
+requests
+python-dotenv
+plotly
+streamlit
+Python
+Requests and python-dotenv
+WeatherAPI.com
